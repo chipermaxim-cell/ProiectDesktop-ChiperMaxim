@@ -1,0 +1,24 @@
+# Plan de lucru al proiectului "Gestionare Biblioteca Personală"
+
+1. Analiza cerințelor
+   - Identificarea funcționalităților principale (adăugare carte, editare, ștergere)
+   - Stabilirea datelor ce trebuie stocate (titlu, autor, gen, stare)
+
+2. Proiectarea interfeței
+   - Crearea mockup-urilor ferestrelor principale
+   - Definirea meniurilor și butoanelor
+   - Alegerea paletei de culori și layout-ului
+
+3. Implementarea
+   - Crearea structurii proiectului în C# și .NET
+   - Dezvoltarea ferestrei principale și a ferestrelor secundare
+   - Conectarea aplicației la baza de date SQLite
+
+4. Testarea aplicației
+   - Testarea adăugării, editării și ștergerii cărților
+   - Verificarea salvării corecte în baza de date
+   - Corectarea eventualelor erori
+
+5. Documentarea finală
+   - Completarea fișierelor README și docs
+   - Exportarea prototipurilor și capturilor de ecran
